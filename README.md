@@ -75,6 +75,7 @@ python general_demo.py \
 ## TODO LIST
  - ~~加入语速、音调控制~~
  - 修复黑框BUG  
+ - 字幕 https://github.com/yangboz/video-srt
 如果大佬们有什么想法的话可以提Issue，同时也欢迎PR。
  - https://github.com/JiehangXie/PaddleBoBo/issues
 
