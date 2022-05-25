@@ -76,6 +76,8 @@ python general_demo.py \
  - ~~加入语速、音调控制~~
  - 修复黑框BUG  
  - 字幕 https://github.com/yangboz/video-srt
+ - langdetect and differ lang tts: https://pypi.org/project/fasttext-langdetect/
+ - 
 如果大佬们有什么想法的话可以提Issue，同时也欢迎PR。
  - https://github.com/JiehangXie/PaddleBoBo/issues
 
